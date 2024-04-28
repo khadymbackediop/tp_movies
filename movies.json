@@ -1,0 +1,20 @@
+
+
+    [
+        {
+            "id": 1,
+            "title": "jodha akbar",
+            "genre": "Épique historique, Romance",
+            "synopsis": "Le film est une épopée romantique qui retrace l'histoire de l'empereur moghol Akbar le Grand et de sa femme, la princesse Rajput Jodha Bai. Alors que l'Inde est secouée par des conflits religieux et des guerres territoriales, l'union entre Akbar, un musulman, et Jodha Bai, une hindoue, est conçue pour sceller la paix entre les deux communautés. Leur relation tumultueuse évolue au fil du temps, entre les intrigues de la cour, les batailles épiques et les défis personnels, pour finalement devenir une histoire d'amour légendaire et un symbole d'unité et de tolérance dans une Inde déchirée par les conflits.",
+            "year": 2018,
+            "director": "Denis Villeneuve"
+        },
+        {
+            "id": 2,
+            "title": "Les couleurs de la liberté",
+            "genre": " Drame, Historique."
+         
+        
+        }
+        
+]
